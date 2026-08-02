@@ -1,16 +1,18 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yadav Aman</h1>
+<h1 align="center">Hi, I'm Yadav Aman</h1>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/gecdhd-comp-yadav-aman/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://leetcode.com/u/yadavaman13/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>&nbsp;
+ <a href="mailto:work.yadavaman@gmail.com"><u>Gmail</u></a> &nbsp &nbsp;
+ <a href="https://www.linkedin.com/in/gecdhd-comp-yadav-aman/"><u>Linkedin</u></a> &nbsp &nbsp;
+ <a href="https://leetcode.com/u/yadavaman13/"><u>Leetcode</u></a> &nbsp &nbsp;
+ 
       
 
-# About Me :
+## About Me :
 Aspiring Software Development Engineer. I love building meaningful digital solutions that solve real problems. From shaping ideas to deploying full-stack webapp, I enjoy crafting smooth backends with Node.js and Express, clean interfaces with React, and connecting everything through REST APIs.
 
 Whether it's a solo project, a fast-paced hackathon, or an open-source collaboration, I’m always eager to build, learn, and contribute. If you're driven by innovation and collaboration, let’s connect and create something meaningful together 🤝
 
-# Skills :
+## Skills :
 
 ### Programming Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,10 +34,14 @@ Whether it's a solo project, a fast-paced hackathon, or an open-source collabora
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+## Current Projects:
+- **[PustakMart](https://github.com/yadavaman13/PustakMart)** - Verified Student-to-Student Campus Book Exchange Marketplace.
+- **[PrepAce](https://prepace-rofb.onrender.com/)** - AI-powered interview preparation and resume optimization platform.
 
-# Achievements & Certifications :
+
+## Achievements & Certifications :
 
 - Beta Microsoft Learn Student Ambassador
 - Postman API Student Expert
 - MongoDB Developers toolkit - GeeksforGeeks
-- 4x Hackathon Finalist
+- 5x Hackathon Finalist
