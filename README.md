@@ -8,7 +8,9 @@
       
 
 ## About Me :
-Aspiring Software Development Engineer. I love building meaningful digital solutions that solve real problems. From shaping ideas to deploying full-stack webapp, I enjoy crafting smooth backends with Node.js and Express, clean interfaces with React, and connecting everything through REST APIs.
+Aspiring Software Development Engineer passionate about building scalable full-stack and backend systems using the MERN stack. I enjoy turning real-world problems into practical products through projects, hackathons, and open-source contributions.
+
+Currently building PustakMart — a verified student-to-student marketplace simplifying the buying and selling of second-hand academic books.
 
 Whether it's a solo project, a fast-paced hackathon, or an open-source collaboration, I’m always eager to build, learn, and contribute. If you're driven by innovation and collaboration, let’s connect and create something meaningful together 🤝
 
